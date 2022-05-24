@@ -1,0 +1,7 @@
+C:\Users\UsuarioX\Documents\GitHub\Manejo-de-exepciones\PROGRAMA-2\bin\Debug\PROGRAMA-2.exe.config
+C:\Users\UsuarioX\Documents\GitHub\Manejo-de-exepciones\PROGRAMA-2\bin\Debug\PROGRAMA-2.exe
+C:\Users\UsuarioX\Documents\GitHub\Manejo-de-exepciones\PROGRAMA-2\bin\Debug\PROGRAMA-2.pdb
+C:\Users\UsuarioX\Documents\GitHub\Manejo-de-exepciones\PROGRAMA-2\obj\Debug\PROGRAMA-2.csproj.AssemblyReference.cache
+C:\Users\UsuarioX\Documents\GitHub\Manejo-de-exepciones\PROGRAMA-2\obj\Debug\PROGRAMA-2.csproj.CoreCompileInputs.cache
+C:\Users\UsuarioX\Documents\GitHub\Manejo-de-exepciones\PROGRAMA-2\obj\Debug\PROGRAMA-2.exe
+C:\Users\UsuarioX\Documents\GitHub\Manejo-de-exepciones\PROGRAMA-2\obj\Debug\PROGRAMA-2.pdb
